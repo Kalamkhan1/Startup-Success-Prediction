@@ -55,10 +55,10 @@ The dataset can be accessed [here](https://raw.githubusercontent.com/dphi-offici
 
 3. **LightGBM Classifier**:
 
-   - Accuracy: (refer to output)
-   - Precision: (refer to output)
-   - Recall: (refer to output)
-   - F1-Score: (refer to output)
+   - Accuracy: 76.8%
+   - Precision: 74.4%
+   - Recall: 74.9%
+   - F1-Score: 74.7%
 
 4. **CatBoost Classifier**:
 
@@ -85,24 +85,6 @@ The dataset can be accessed [here](https://raw.githubusercontent.com/dphi-offici
 
 ---
 
-## How to Run the Project
-
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Load the dataset:
-   ```python
-   df = pd.read_csv("<dataset_url>")
-   ```
-3. Run the Jupyter notebook or Python script:
-   ```bash
-   jupyter notebook StartUP!.ipynb
-   ```
-4. Evaluate models and compare results.
-
----
-
 ## Future Improvements
 
 1. Implement hyperparameter tuning for better model performance.
@@ -113,7 +95,7 @@ The dataset can be accessed [here](https://raw.githubusercontent.com/dphi-offici
 
 ## Contributors
 
-- **Your Name**
+- **Mohammed Abdul Kalam Khan**
 
 ---
 
